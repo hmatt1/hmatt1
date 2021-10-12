@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 Highlighting a few of my Open Source contributions:
 
-- Core Maintainer for [Optum/kie-examples](https://github.com/Optum/kie-examples)
 - [kiegroup/jbpm \[JBPM-9452\] ClassCastException fix](https://github.com/kiegroup/jbpm/pull/1840)
 - [kiegroup/jbpm ProcessInstanceInfo set start date when constructed](https://github.com/kiegroup/jbpm/pull/1705)
 - [micronaut-projects/micronaut-redis RedisCache Remove Blocking IO on Event Loop Thread](https://github.com/micronaut-projects/micronaut-redis/pull/18)
