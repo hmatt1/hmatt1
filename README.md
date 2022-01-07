@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmatt1&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 
+I am the core maintainer for the [Intellij AngelScript Language Support plugin](https://plugins.jetbrains.com/plugin/18276-angelscript-language-support)
+
 Highlighting a few of my Open Source contributions:
 
 - [kiegroup/jbpm \[JBPM-9452\] ClassCastException fix](https://github.com/kiegroup/jbpm/pull/1840)
