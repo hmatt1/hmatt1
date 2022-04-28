@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 Here are some projects I made that actually have users:
 
--  [Intellij AngelScript Language Support plugin](https://plugins.jetbrains.com/plugin/18276-angelscript-language-support)
-- TrackMania plugin - [CotD Countdown](https://openplanet.dev/plugin/cotdcountdown) [![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F131)](https://openplanet.dev/plugin/cotdcountdown)
-- TrackMania plugin - [Do Not Pull A Wirtual](https://openplanet.dev/plugin/donotpullawirtual) [![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F133)](https://openplanet.dev/plugin/donotpullawirtual)
+-  [Intellij AngelScript Language Support plugin](https://plugins.jetbrains.com/plugin/18276-angelscript-language-support) ![Downloads](https://img.shields.io/jetbrains/plugin/d/18276?color=green&label=Downloads)
+- TrackMania plugin - [CotD Countdown](https://openplanet.dev/plugin/cotdcountdown) [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F131)](https://openplanet.dev/plugin/cotdcountdown)
+- TrackMania plugin - [Do Not Pull A Wirtual](https://openplanet.dev/plugin/donotpullawirtual) [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F133)](https://openplanet.dev/plugin/donotpullawirtual)
 
 Highlighting a few of my Open Source contributions:
 
