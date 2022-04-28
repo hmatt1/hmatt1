@@ -20,7 +20,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmatt1&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 
-I am the core maintainer for the [Intellij AngelScript Language Support plugin](https://plugins.jetbrains.com/plugin/18276-angelscript-language-support)
+Here are some projects I made that actually have users:
+
+-  [Intellij AngelScript Language Support plugin](https://plugins.jetbrains.com/plugin/18276-angelscript-language-support)
+- TrackMania plugin - [CotD Countdown](https://openplanet.dev/plugin/cotdcountdown) [![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F131)](https://openplanet.dev/plugin/cotdcountdown)
+- TrackMania plugin - [Do Not Pull A Wirtual] [![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F133)](https://openplanet.dev/plugin/donotpullawirtual)
 
 Highlighting a few of my Open Source contributions:
 
@@ -28,4 +32,4 @@ Highlighting a few of my Open Source contributions:
 - [kiegroup/jbpm ProcessInstanceInfo set start date when constructed](https://github.com/kiegroup/jbpm/pull/1705)
 - [micronaut-projects/micronaut-redis RedisCache Remove Blocking IO on Event Loop Thread](https://github.com/micronaut-projects/micronaut-redis/pull/18)
 
-See my pinned repositories for a few projects I created!
+See my pinned repositories for a few projects I created for fun!
