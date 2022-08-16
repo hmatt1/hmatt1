@@ -28,6 +28,7 @@ I am the core maintainer for the following projects:
 
 Highlighting a few of my Open Source contributions:
 
+- [testcontainers/testcontainers-java - Make TestcontainersExtension public](https://github.com/testcontainers/testcontainers-java/pull/5285)
 - [kiegroup/jbpm \[JBPM-9452\] ClassCastException fix](https://github.com/kiegroup/jbpm/pull/1840)
 - [kiegroup/jbpm ProcessInstanceInfo set start date when constructed](https://github.com/kiegroup/jbpm/pull/1705)
 - [micronaut-projects/micronaut-redis RedisCache Remove Blocking IO on Event Loop Thread](https://github.com/micronaut-projects/micronaut-redis/pull/18)
